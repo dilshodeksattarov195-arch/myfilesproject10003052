@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdetch",
+        "uuid": 21064904,
+        "checksum": "16lnqm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
